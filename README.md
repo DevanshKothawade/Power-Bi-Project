@@ -1,1 +1,2 @@
 # AdventureWorks Power-Bi-Project
+In this project, I have used Power Bi to import AdventureWorks data from a csv file, cleaned data by changing the data values for proper data analysis and visualisation, transforming data using Power Query, building data model relationships, created new columns and measures to gather more information from the data available eventually to gain valuable insights and created visuals using graphs, charts and KPI cards which helps the business understand the available data and helps to make important decisions accordingly.
